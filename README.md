@@ -2,7 +2,6 @@
 
 This project simulates the core idea behind blockchain mining — finding a valid hash by incrementing a **nonce** until a certain difficulty condition is met (e.g., the hash starts with `"0000"`).
 
-> This helps you understand how computational effort ensures block integrity and why tampering is hard in real blockchains.
 
 ---
 
